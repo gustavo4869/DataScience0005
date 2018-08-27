@@ -19,7 +19,7 @@ public class Main {
 			do {
 				writer.println(contador);
 				contador++;
-			}while(contador < 250);
+			}while(contador < 350);
 			
 			writer.close();
 			
